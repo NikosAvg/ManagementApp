@@ -1,0 +1,10 @@
+body,html {
+	overflow-y:hidden;
+}
+.container-fluid{
+	padding: 120px 50px;
+}
+.btn.btn-default{
+	height: 34px;
+}
+
